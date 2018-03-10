@@ -1,0 +1,5 @@
+/Users/moe/Desktop/HelloCSharp/Basics/Basics/bin/Debug/Basics.exe
+/Users/moe/Desktop/HelloCSharp/Basics/Basics/bin/Debug/Basics.pdb
+/Users/moe/Desktop/HelloCSharp/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/moe/Desktop/HelloCSharp/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/moe/Desktop/HelloCSharp/Basics/Basics/obj/x86/Debug/Basics.pdb
